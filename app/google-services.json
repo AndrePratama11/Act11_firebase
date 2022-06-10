@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653644237198",
+    "project_id": "fir-ec3a2",
+    "storage_bucket": "fir-ec3a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653644237198:android:c2323abc9ef304ffae7cdf",
+        "android_client_info": {
+          "package_name": "kelas.b.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653644237198-bqr41n2ppvlfemk7bcg7l5mreiiq2qci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaFbaNhJ5FvUtOE_nwHzc4QnvcVltWfcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653644237198-bqr41n2ppvlfemk7bcg7l5mreiiq2qci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
